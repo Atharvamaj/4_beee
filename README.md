@@ -1,4 +1,4 @@
-# hu4 beee b4 — a four-limb servo creature that reacts to what it sees
+# 4 beee b4 — a four-limb servo creature that reacts to what it sees
 
 Four Feetech ST3215 servos daisy-chained into a central hub. A webcam looks at the
 scene, YOLOv8n (run through OpenCV's DNN module) names what's there, the labels are
